@@ -1,4 +1,4 @@
-# Diabetes_Predication_Classification
+# Diabetes_Prediction_Classification
 This repository provides a detailed exploratory data analysis of the PIMA Diabetes Dataset, using Python libraries like Pandas, NumPy, Seaborn, and Matplotlib. The analysis focuses on understanding data characteristics and feature relationships.
 
    **Contents:**
